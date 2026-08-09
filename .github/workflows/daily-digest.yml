@@ -2,8 +2,8 @@ name: Daily Frontend Digest
 
 on:
   schedule:
-    # 08:05 JST（= 23:05 UTC）。毎時00分は Actions が混雑して遅延・ドロップしやすいのでずらしている。
-    - cron: "5 23 * * *"
+    # 07:05 JST（= 22:05 UTC）。毎時00分は Actions が混雑して遅延・ドロップしやすいのでずらしている。
+    - cron: "5 22 * * *"
   workflow_dispatch:
 
 permissions:
