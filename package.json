@@ -1,0 +1,23 @@
+{
+  "name": "news-collector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "フロントエンド周辺の情報を1日1回集約し、Claude が要約して Discord に投稿する bot",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "fetch": "node src/fetch.ts",
+    "post": "node src/post.ts"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.7.0"
+  },
+  "license": "MIT"
+}

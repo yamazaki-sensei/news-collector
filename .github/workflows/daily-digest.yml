@@ -1,0 +1,68 @@
+name: Daily Frontend Digest
+
+on:
+  schedule:
+    # 08:05 JST（= 23:05 UTC）。毎時00分は Actions が混雑して遅延・ドロップしやすいのでずらしている。
+    - cron: "5 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write # state/seen.json のコミットに必要
+  id-token: write # claude-code-action の既定認証に必要
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24" # ビルドなしで .ts を直接実行するため
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch feeds
+        id: fetch
+        run: node src/fetch.ts
+
+      # 新着が0件の日は Claude も Discord も呼ばない。
+      - name: Summarize with Claude
+        if: steps.fetch.outputs.count != '0'
+        uses: anthropics/claude-code-action@v1
+        with:
+          # Pro サブスクのトークン。API 課金は発生しない。
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: "Read prompts/digest.md and follow its instructions exactly."
+          claude_args: |
+            --model claude-sonnet-5
+            --allowedTools "Read,Write"
+            --max-turns 15
+
+      # Webhook URL はこのステップにだけ渡す。Claude 側からは触れられない。
+      - name: Post to Discord
+        if: steps.fetch.outputs.count != '0'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: node src/post.ts
+
+      # 投稿が成功したときだけ既読を確定させる。失敗した回は state を残さないので、
+      # 次回そのまま再取得され、記事を取りこぼさない。
+      - name: Commit seen state
+        run: |
+          if git diff --quiet -- state/seen.json; then
+            echo "state/seen.json に変更なし"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/seen.json
+          git commit -m "chore: update seen state [skip ci]"
+          git push || (git pull --rebase && git push)

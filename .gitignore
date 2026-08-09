@@ -1,0 +1,4 @@
+node_modules/
+
+# 実行ごとの中間生成物。items.json / digest.md はコミットしない
+work/
