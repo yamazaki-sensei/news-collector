@@ -1,3 +1,48 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "id": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "seenAt": "2026-08-10T09:06:06.173Z"
+    }
+  ]
 }
