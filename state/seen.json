@@ -151,6 +151,54 @@
     {
       "id": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
       "seenAt": "2026-08-12T22:44:39.822Z"
+    },
+    {
+      "id": "https://svelte.dev/blog/sveltekit-3-release-candidate",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/blog/inside-the-vercel-intern-experience",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/glm-5-2-free-for-eve-agents-through-august-27-via-blackbox-on-ai-gateway",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/gemini-3-7-flash-now-available-on-ai-gateway-for-50-off",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/one-click-upgrade-for-deprecated-node-js-versions",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/grok-build-harness-adapter",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/use-acp-compatible-harnesses-with-the-ai-sdk-harness-layer",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/exa-joins-the-vercel-agent-marketplace",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/set-up-coding-agents-in-one-command-with-ai-gateway",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "seenAt": "2026-08-13T22:46:52.067Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+      "seenAt": "2026-08-13T22:46:52.067Z"
     }
   ]
 }
