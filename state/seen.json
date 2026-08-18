@@ -231,6 +231,42 @@
     {
       "id": "https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month",
       "seenAt": "2026-08-17T22:27:53.203Z"
+    },
+    {
+      "id": "/blog/building-app-like-experiences-with-nextjs-16-3",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/chat-sdk-adds-instagram-adapter",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/cline-harness-adapter",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/glm-5-3-now-available-on-ai-gateway",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/sign-jwts-from-your-functions-without-managing-private-keys",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "seenAt": "2026-08-18T22:26:59.580Z"
+    },
+    {
+      "id": "https://tkdodo.eu/blog/reliable-query-prefetching-with-tanstack-router",
+      "seenAt": "2026-08-18T22:26:59.580Z"
     }
   ]
 }
