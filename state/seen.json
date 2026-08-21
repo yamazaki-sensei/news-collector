@@ -347,6 +347,58 @@
     {
       "id": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
       "seenAt": "2026-08-20T22:31:14.589Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/08/eslint-v10.9.0-released/",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/deployment-storage-keeps-your-deployments-rollback-ready",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-cli-expands-support-for-dns-domains-and-project-commands",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/deepseek-v4-flash-with-vision-now-available-on-ai-gateway",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/connect-v0-apps-to-slack-google-and-100-other-services",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-agent-is-now-available-in-slack-code-channels",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "seenAt": "2026-08-21T22:28:34.945Z"
     }
   ]
 }
