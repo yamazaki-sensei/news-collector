@@ -399,6 +399,26 @@
     {
       "id": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
       "seenAt": "2026-08-21T22:28:34.945Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/08/eslint-v10.9.1-released/",
+      "seenAt": "2026-08-24T22:29:52.159Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades",
+      "seenAt": "2026-08-24T22:29:52.159Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-is-now-globally-available",
+      "seenAt": "2026-08-24T22:29:52.159Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types",
+      "seenAt": "2026-08-24T22:29:52.159Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration",
+      "seenAt": "2026-08-24T22:29:52.159Z"
     }
   ]
 }
