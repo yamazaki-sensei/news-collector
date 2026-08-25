@@ -30,9 +30,10 @@ const FEED_TIMEOUT_MS = 30_000;
 /** 一時的な失敗を拾い直す回数。並列取得なので全体の所要時間はほぼ増えない。 */
 const FEED_RETRIES = 1;
 /**
- * 1フィードから1回で採用する最大件数。
+ * 1フィードから1回で採用する最大件数（既定）。
  * GitHub Changelog / Vercel は1日10件以上出すことがあり、上限がないと
  * ダイジェストがその2つで埋まって他フレームワークの記事が埋もれる。
+ * フィード側で maxItems を指定していればそちらが優先される。
  */
 const MAX_ITEMS_PER_FEED = 5;
 /** Claude に渡す抜粋の長さ。要約の材料としてはこれで足り、入力トークンを抑えられる。 */
@@ -76,6 +77,20 @@ function toPlainText(html: string): string {
 
 function truncate(text: string, max: number): string {
   return text.length <= max ? text : `${text.slice(0, max).trimEnd()}…`;
+}
+
+/**
+ * フィードごとの除外パターンに当たるか。
+ * タイトルとURLの両方を見るのは、タイトルが素っ気なくても URL の slug に
+ * 判断材料が残っていることがあるため（Vercel の changelog がこの形）。
+ *
+ * ここで落とした記事は seen.json に載らない。パターンは決定的なので翌日も
+ * 同じように落ちるし、載せないぶん seen.json が余計に太らない。
+ */
+function isExcluded(item: Item, feed: Feed): boolean {
+  if (!feed.exclude) return false;
+  const haystack = `${item.title} ${item.link}`;
+  return feed.exclude.some((pattern) => pattern.test(haystack));
 }
 
 const parser = new Parser({
@@ -184,8 +199,13 @@ async function main(): Promise<void> {
     const fresh = result.value
       .map((raw) => toItem(raw, feed, cutoff))
       .filter((item): item is Item => item !== null);
-    console.log(`  ✓ ${feed.name}: ${fresh.length}/${result.value.length} 件が対象期間内`);
-    collected.push(...fresh);
+    const kept = fresh.filter((item) => !isExcluded(item, feed));
+    const excluded = fresh.length - kept.length;
+    console.log(
+      `  ✓ ${feed.name}: ${kept.length}/${result.value.length} 件が対象期間内` +
+        (excluded > 0 ? `（除外 ${excluded} 件）` : ""),
+    );
+    collected.push(...kept);
   });
 
   // 同じ記事が複数フィードに現れることがあるので id で一意化してから既読を除く。
@@ -205,13 +225,15 @@ async function main(): Promise<void> {
     else perFeed.set(item.feed, [item]);
   }
 
+  const feedByName = new Map(FEEDS.map((feed) => [feed.name, feed]));
   const newItems: Item[] = [];
   for (const [feedName, items] of perFeed) {
+    const limit = feedByName.get(feedName)?.maxItems ?? MAX_ITEMS_PER_FEED;
     items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
-    if (items.length > MAX_ITEMS_PER_FEED) {
-      console.log(`  … ${feedName}: ${items.length} 件中 ${MAX_ITEMS_PER_FEED} 件に絞り込み`);
+    if (items.length > limit) {
+      console.log(`  … ${feedName}: ${items.length} 件中 ${limit} 件に絞り込み`);
     }
-    newItems.push(...items.slice(0, MAX_ITEMS_PER_FEED));
+    newItems.push(...items.slice(0, limit));
   }
   newItems.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 
