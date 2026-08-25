@@ -419,6 +419,74 @@
     {
       "id": "https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration",
       "seenAt": "2026-08-24T22:29:52.159Z"
+    },
+    {
+      "id": "/blog/august-2026-security-release",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "/blog/nextjs-security-release-august-2026-update",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/nextjs-august-2026-security-release",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/speed-insights-free-tier",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/blog/introducing-run",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/minimax-m3-and-m2-7-are-free-on-ai-gateway",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/wan-3-0-now-available-on-ai-gateway",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/ai-gateway-now-supports-asynchronous-video-generation",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-connect-ga",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/chat-sdk-slack-enterprise-grid",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-connect-now-supports-linq",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/notion-chat-sdk",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/chat-sdk-now-supports-xchat",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "seenAt": "2026-08-25T22:31:01.318Z"
     }
   ]
 }
