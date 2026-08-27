@@ -487,6 +487,42 @@
     {
       "id": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
       "seenAt": "2026-08-25T22:31:01.318Z"
+    },
+    {
+      "id": "/blog/release/v26.8.1?1787782296332",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "/blog/release/v26.8.0?1787754588258",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "/blog/release/v24.20.0?1787754582505",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-security-dashboard-is-now-generally-available",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/python-projects-now-support-routing-rules",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-13-github-apps-can-now-access-enterprise-billing-data",
+      "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+      "seenAt": "2026-08-27T03:00:47.662Z"
     }
   ]
 }
