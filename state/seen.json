@@ -523,6 +523,30 @@
     {
       "id": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
       "seenAt": "2026-08-27T03:00:47.662Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/find-deployments-faster-with-redesigned-filters",
+      "seenAt": "2026-08-28T06:00:48.504Z"
+    },
+    {
+      "id": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language",
+      "seenAt": "2026-08-28T06:00:48.504Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
+      "seenAt": "2026-08-28T06:00:48.504Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+      "seenAt": "2026-08-28T06:00:48.504Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
+      "seenAt": "2026-08-28T06:00:48.504Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
+      "seenAt": "2026-08-28T06:00:48.504Z"
     }
   ]
 }
