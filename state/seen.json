@@ -643,6 +643,42 @@
     {
       "id": "https://github.blog/changelog/2026-08-31-selected-github-copilot-models-deprecated",
       "seenAt": "2026-09-02T23:54:49.947Z"
+    },
+    {
+      "id": "/blog/turbopack-chunking",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://astro.build/blog/astro-730/",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-06-github-actions-early-august-2026-updates",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+      "seenAt": "2026-09-03T23:54:19.880Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+      "seenAt": "2026-09-03T23:54:19.880Z"
     }
   ]
 }
