@@ -1,5 +1,5 @@
 /**
- * 全フィードを並列取得し、直近24時間の未読記事だけを work/items.json に書き出す。
+ * 全フィードを並列取得し、直近 WINDOW_HOURS の未読記事だけを work/items.json に書き出す。
  *
  * Claude には「判断」だけをさせたいので、取得・期間フィルタ・重複排除といった
  * 決定的にできる処理はすべてここで済ませる。
@@ -36,6 +36,12 @@ const FEED_RETRIES = 1;
  * フィード側で maxItems を指定していればそちらが優先される。
  */
 const MAX_ITEMS_PER_FEED = 5;
+/**
+ * 1カテゴリから1回で採用する最大件数。
+ * フィードを60本以上に増やしたので、フィード単位の上限だけでは
+ * リリースが重なった日に release が20件並ぶ。読み物として成立する量で切る。
+ */
+const MAX_ITEMS_PER_CATEGORY = 10;
 /** Claude に渡す抜粋の長さ。要約の材料としてはこれで足り、入力トークンを抑えられる。 */
 const EXCERPT_MAX_CHARS = 500;
 
@@ -162,6 +168,16 @@ function toItem(raw: RawItem, feed: Feed, cutoff: Date): Item | null {
   };
 }
 
+/** 新しい順。上限で切るときはどこでもこの順。 */
+function byNewest(a: Item, b: Item): number {
+  return b.publishedAt.localeCompare(a.publishedAt);
+}
+
+/** ログ用の表示名。同名のフィード（React の release と blog など）を区別する。 */
+function label(feed: Feed): string {
+  return `${feed.name} [${feed.category}]`;
+}
+
 async function loadSeen(): Promise<SeenState> {
   try {
     const parsed: unknown = JSON.parse(await readFile(SEEN_PATH, "utf8"));
@@ -184,7 +200,11 @@ async function main(): Promise<void> {
   // 1本の失敗で全体を落とさない。落ちたフィードは名前をログに残して次回以降の調査材料にする。
   const results = await Promise.allSettled(FEEDS.map((feed) => fetchFeedWithRetry(feed)));
 
-  const collected: Item[] = [];
+  // 記事と出どころのフィードを組で持つ。
+  // フィード名は release と framework で重複する（"React" が両方にいる）ので、
+  // 上限をかけるときの束ね方は名前ではなくフィードそのもの。
+  type Collected = { feed: Feed; item: Item };
+  const collected: Collected[] = [];
   const failures: string[] = [];
 
   results.forEach((result, i) => {
@@ -192,8 +212,8 @@ async function main(): Promise<void> {
     if (!feed) return;
     if (result.status === "rejected") {
       const reason = result.reason instanceof Error ? result.reason.message : String(result.reason);
-      failures.push(`${feed.name} (${reason})`);
-      console.warn(`  ✗ ${feed.name}: ${reason}`);
+      failures.push(`${label(feed)} (${reason})`);
+      console.warn(`  ✗ ${label(feed)}: ${reason}`);
       return;
     }
     const fresh = result.value
@@ -202,40 +222,59 @@ async function main(): Promise<void> {
     const kept = fresh.filter((item) => !isExcluded(item, feed));
     const excluded = fresh.length - kept.length;
     console.log(
-      `  ✓ ${feed.name}: ${kept.length}/${result.value.length} 件が対象期間内` +
+      `  ✓ ${label(feed)}: ${kept.length}/${result.value.length} 件が対象期間内` +
         (excluded > 0 ? `（除外 ${excluded} 件）` : ""),
     );
-    collected.push(...kept);
+    collected.push(...kept.map((item) => ({ feed, item })));
   });
 
   // 同じ記事が複数フィードに現れることがあるので id で一意化してから既読を除く。
-  const byId = new Map(collected.map((item) => [item.id, item]));
-  const unseen = [...byId.values()].filter((item) => !seenIds.has(item.id));
+  const byId = new Map(collected.map((c) => [c.item.id, c]));
+  const unseen = [...byId.values()].filter((c) => !seenIds.has(c.item.id));
 
   // GitHub Changelog や Vercel は投稿頻度が突出して高く、放っておくとダイジェストが
   // その2つで埋まって Vue / TypeScript の記事が埋もれる。フィードごとに新しい順で
   // 上限をかけ、静かなフィードの記事が押し流されないようにする。
   // 溢れたぶんは翌日に持ち越さず捨てる（後段で既読として記録する）。ここは
   // 全記事のアーカイブではなくダイジェストなので、数日遅れの記事が混ざるより
-  // 「その日の上位5件」で切るほうが読み物として素直。
-  const perFeed = new Map<string, Item[]>();
-  for (const item of unseen) {
-    const bucket = perFeed.get(item.feed);
+  // 「その日の上位N件」で切るほうが読み物として素直。
+  const perFeed = new Map<Feed, Item[]>();
+  for (const { feed, item } of unseen) {
+    const bucket = perFeed.get(feed);
     if (bucket) bucket.push(item);
-    else perFeed.set(item.feed, [item]);
+    else perFeed.set(feed, [item]);
   }
 
-  const feedByName = new Map(FEEDS.map((feed) => [feed.name, feed]));
-  const newItems: Item[] = [];
-  for (const [feedName, items] of perFeed) {
-    const limit = feedByName.get(feedName)?.maxItems ?? MAX_ITEMS_PER_FEED;
-    items.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  const afterFeedCap: Item[] = [];
+  for (const [feed, items] of perFeed) {
+    const limit = feed.maxItems ?? MAX_ITEMS_PER_FEED;
+    items.sort(byNewest);
     if (items.length > limit) {
-      console.log(`  … ${feedName}: ${items.length} 件中 ${limit} 件に絞り込み`);
+      console.log(`  … ${label(feed)}: ${items.length} 件中 ${limit} 件に絞り込み`);
     }
-    newItems.push(...items.slice(0, limit));
+    afterFeedCap.push(...items.slice(0, limit));
   }
-  newItems.sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+
+  // カテゴリ単位でもう一段。フィード単位の上限だけでは、リリースが重なった日に
+  // release だけで20件並ぶ。
+  const perCategory = new Map<Category, Item[]>();
+  for (const item of afterFeedCap) {
+    const bucket = perCategory.get(item.category);
+    if (bucket) bucket.push(item);
+    else perCategory.set(item.category, [item]);
+  }
+
+  const newItems: Item[] = [];
+  for (const [category, items] of perCategory) {
+    items.sort(byNewest);
+    if (items.length > MAX_ITEMS_PER_CATEGORY) {
+      console.log(
+        `  … ${CATEGORY_LABELS[category]}: ${items.length} 件中 ${MAX_ITEMS_PER_CATEGORY} 件に絞り込み`,
+      );
+    }
+    newItems.push(...items.slice(0, MAX_ITEMS_PER_CATEGORY));
+  }
+  newItems.sort(byNewest);
 
   await mkdir(WORK_DIR, { recursive: true });
   await writeFile(
@@ -253,7 +292,7 @@ async function main(): Promise<void> {
   const nextSeen: SeenState = {
     entries: [
       ...keptEntries,
-      ...unseen.map((item) => ({ id: item.id, seenAt: now.toISOString() })),
+      ...unseen.map(({ item }) => ({ id: item.id, seenAt: now.toISOString() })),
     ],
   };
   await writeFile(SEEN_PATH, `${JSON.stringify(nextSeen, null, 2)}\n`);
