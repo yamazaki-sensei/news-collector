@@ -1,74 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/changelog/grok-imagine-image-2-0-preview-now-available-on-vercel-ai-gateway",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-ai-gateway-and-vercel-sandbox-now-available-on-hermes-agent",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "seenAt": "2026-08-10T09:06:06.173Z"
-    },
-    {
-      "id": "https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox",
-      "seenAt": "2026-08-10T22:41:19.380Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-sandbox-managed-images",
-      "seenAt": "2026-08-10T22:41:19.380Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/bun-serve-entrypoint-for-vercel-functions",
-      "seenAt": "2026-08-10T22:41:19.380Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-      "seenAt": "2026-08-10T22:41:19.380Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-05-github-billing-in-india-now-supports-automatic-recurring-payments",
-      "seenAt": "2026-08-10T22:41:19.380Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "seenAt": "2026-08-10T22:41:19.380Z"
-    },
-    {
       "id": "https://vercel.com/changelog/vercel-connect-adds-observability-support",
       "seenAt": "2026-08-11T22:48:04.657Z"
     },
@@ -739,6 +671,50 @@
     {
       "id": "https://github.blog/changelog/2026-06-22-automatic-dependabot-access-to-github-hosted-registries",
       "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "/blog/release/v26.8.2?1788970157773",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "/blog/release/v24.21.0?1788954920945",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://react.dev/blog/2026/09/09/react-19-3",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/deployment-step-now-10-faster",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-08-26-enterprise-managed-permissions-for-github-copilot-agent-operations",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "seenAt": "2026-09-09T23:55:12.014Z"
     }
   ]
 }
