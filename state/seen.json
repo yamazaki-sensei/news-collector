@@ -707,6 +707,38 @@
     {
       "id": "https://bun.com/blog/bun-v1.4.2",
       "seenAt": "2026-09-05T23:38:27.729Z"
+    },
+    {
+      "id": "https://astro.build/case-studies/evil-martians/",
+      "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+      "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "https://vercel.com/blog/introducing-flat-rate-cdn",
+      "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams",
+      "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-04-new-customer-portal-help-github-com",
+      "seenAt": "2026-09-09T07:37:29.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-22-automatic-dependabot-access-to-github-hosted-registries",
+      "seenAt": "2026-09-09T07:37:29.383Z"
     }
   ]
 }
