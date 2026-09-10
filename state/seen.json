@@ -1,54 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/changelog/vercel-connect-adds-observability-support",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/enterprise-managed-users",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-cli-100-services",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://vercel.com/blog/everything-hackable-will-get-hacked",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/launchdarkly-is-now-available-on-the-vercel-marketplace",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/simplified-onboarding-for-deepsec",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "seenAt": "2026-08-11T22:48:04.657Z"
-    },
-    {
       "id": "https://vercel.com/changelog/deepseek-v4-pro-now-runs-updated-weights-on-ai-gateway",
       "seenAt": "2026-08-12T22:44:39.822Z"
     },
@@ -715,6 +667,42 @@
     {
       "id": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
       "seenAt": "2026-09-09T23:55:12.014Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/fastapi-frontends-and-static-files-served-from-the-cdn",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "seenAt": "2026-09-10T23:50:42.165Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
+      "seenAt": "2026-09-10T23:50:42.165Z"
     }
   ]
 }
