@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/events/nodejs-interactive-2026?1786665600000",
-      "seenAt": "2026-08-15T22:25:42.109Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "seenAt": "2026-08-15T22:25:42.109Z"
-    },
-    {
       "id": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
       "seenAt": "2026-08-17T22:27:53.203Z"
     },
@@ -619,6 +611,10 @@
     {
       "id": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
       "seenAt": "2026-09-11T23:58:44.134Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+      "seenAt": "2026-09-15T00:23:42.325Z"
     }
   ]
 }
