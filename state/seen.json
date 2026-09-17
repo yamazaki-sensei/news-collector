@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/changelog/deploy-cursor-origin-repositories-with-vercel-in-public-beta",
-      "seenAt": "2026-08-17T22:27:53.203Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month",
-      "seenAt": "2026-08-17T22:27:53.203Z"
-    },
-    {
       "id": "/blog/building-app-like-experiences-with-nextjs-16-3",
       "seenAt": "2026-08-18T22:26:59.580Z"
     },
@@ -635,6 +627,30 @@
     {
       "id": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
       "seenAt": "2026-09-16T00:03:06.690Z"
+    },
+    {
+      "id": "/blog/release/v26.9.0?1789582662027",
+      "seenAt": "2026-09-17T00:12:38.549Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+      "seenAt": "2026-09-17T00:12:38.549Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "seenAt": "2026-09-17T00:12:38.549Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "seenAt": "2026-09-17T00:12:38.549Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "seenAt": "2026-09-17T00:12:38.549Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "seenAt": "2026-09-17T00:12:38.549Z"
     }
   ]
 }
