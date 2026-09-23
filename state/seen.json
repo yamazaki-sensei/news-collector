@@ -563,6 +563,42 @@
     {
       "id": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
       "seenAt": "2026-09-22T00:39:06.379Z"
+    },
+    {
+      "id": "/blog/release/v26.10.0?1790067829095",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "/blog/nextjs-security-update-september-22-2026",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/drives-for-vercel-sandbox-are-now-in-public-beta",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-security-improvements-for-ssh",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "seenAt": "2026-09-23T00:09:01.443Z"
     }
   ]
 }
