@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://eslint.org/blog/2026/08/eslint-v10.9.1-released/",
-      "seenAt": "2026-08-24T22:29:52.159Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades",
-      "seenAt": "2026-08-24T22:29:52.159Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-sandbox-is-now-globally-available",
-      "seenAt": "2026-08-24T22:29:52.159Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/environment-variables-now-use-config-and-secret-types",
-      "seenAt": "2026-08-24T22:29:52.159Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/bun-runtime-now-supports-large-functions-and-extended-max-duration",
-      "seenAt": "2026-08-24T22:29:52.159Z"
-    },
-    {
       "id": "/blog/august-2026-security-release",
       "seenAt": "2026-08-25T22:31:01.318Z"
     },
@@ -599,6 +579,38 @@
     {
       "id": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "seenAt": "2026-09-23T00:09:01.443Z"
+    },
+    {
+      "id": "/blog/release/v22.23.3?1790187760940",
+      "seenAt": "2026-09-24T00:18:28.675Z"
+    },
+    {
+      "id": "/blog/upcoming-nextjs-security-release-september-2026",
+      "seenAt": "2026-09-24T00:18:28.675Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
+      "seenAt": "2026-09-24T00:18:28.675Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "seenAt": "2026-09-24T00:18:28.675Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "seenAt": "2026-09-24T00:18:28.675Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-local-sandboxing-in-the-github-copilot-app",
+      "seenAt": "2026-09-24T00:18:28.675Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+      "seenAt": "2026-09-24T00:18:28.675Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "seenAt": "2026-09-24T00:18:28.675Z"
     }
   ]
 }
