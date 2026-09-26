@@ -551,6 +551,58 @@
     {
       "id": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
       "seenAt": "2026-09-25T00:21:02.572Z"
+    },
+    {
+      "id": "https://medium.com/p/826bc54ae3a9",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://medium.com/p/9619a35e2b0a",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vcr-login-github-action",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "seenAt": "2026-09-26T00:26:21.733Z"
     }
   ]
 }
