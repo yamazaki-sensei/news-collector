@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://medium.com/p/743bb9bd0b0e",
-      "seenAt": "2026-08-29T03:34:18.403Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-cli-expands-commands-for-dns-domains-and-projects",
-      "seenAt": "2026-08-29T03:34:18.403Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "seenAt": "2026-08-29T03:34:18.403Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-      "seenAt": "2026-08-29T03:34:18.403Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-27-upcoming-changes-to-github-copilot-policies-and-billing",
-      "seenAt": "2026-08-29T03:34:18.403Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-27-github-classroom-deprecated",
-      "seenAt": "2026-08-29T03:34:18.403Z"
-    },
-    {
       "id": "https://svelte.dev/blog/whats-new-in-svelte-september-2026",
       "seenAt": "2026-09-01T01:05:48.237Z"
     },
@@ -543,6 +519,18 @@
     {
       "id": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
       "seenAt": "2026-09-26T00:26:21.733Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/search-domains-without-authentication",
+      "seenAt": "2026-09-29T01:36:31.507Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "seenAt": "2026-09-29T01:36:31.507Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "seenAt": "2026-09-29T01:36:31.507Z"
     }
   ]
 }
