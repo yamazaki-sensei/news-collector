@@ -531,6 +531,22 @@
     {
       "id": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
       "seenAt": "2026-09-29T01:36:31.507Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+      "seenAt": "2026-09-30T01:09:32.647Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+      "seenAt": "2026-09-30T01:09:32.647Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
+      "seenAt": "2026-09-30T01:09:32.647Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "seenAt": "2026-09-30T01:09:32.647Z"
     }
   ]
 }
