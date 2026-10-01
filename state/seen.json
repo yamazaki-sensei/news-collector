@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://svelte.dev/blog/whats-new-in-svelte-september-2026",
-      "seenAt": "2026-09-01T01:05:48.237Z"
-    },
-    {
-      "id": "https://astro.build/blog/whats-new-august-2026/",
-      "seenAt": "2026-09-01T01:05:48.237Z"
-    },
-    {
-      "id": "https://remix.run/blog/remix-3-release-candidate",
-      "seenAt": "2026-09-01T01:05:48.237Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-sandbox-now-calculates-snapshot-storage-costs-daily",
-      "seenAt": "2026-09-01T01:05:48.237Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
-      "seenAt": "2026-09-01T01:05:48.237Z"
-    },
-    {
       "id": "https://vercel.com/blog/fluid-compute-takes-any-shape",
       "seenAt": "2026-09-01T23:52:52.924Z"
     },
@@ -547,6 +527,42 @@
     {
       "id": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
       "seenAt": "2026-09-30T01:09:32.647Z"
+    },
+    {
+      "id": "/blog/september-2026-security-release",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://astro.build/blog/whats-new-september-2026/",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vary-cookie-responses-no-longer-cached",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-16-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "seenAt": "2026-10-01T01:09:11.062Z"
     }
   ]
 }
