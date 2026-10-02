@@ -1,34 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/blog/fluid-compute-takes-any-shape",
-      "seenAt": "2026-09-01T23:52:52.924Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-      "seenAt": "2026-09-01T23:52:52.924Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-      "seenAt": "2026-09-01T23:52:52.924Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-      "seenAt": "2026-09-01T23:52:52.924Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-      "seenAt": "2026-09-01T23:52:52.924Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-31-github-cli-media-in-issues-pull-requests-and-comments",
-      "seenAt": "2026-09-01T23:52:52.924Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "seenAt": "2026-09-01T23:52:52.924Z"
-    },
-    {
       "id": "https://medium.com/p/39ff8e0271a4",
       "seenAt": "2026-09-02T23:54:49.947Z"
     },
@@ -563,6 +535,50 @@
     {
       "id": "https://github.blog/changelog/2026-09-16-x25519-only-tls-ends-for-ghe-com-on-september-15",
       "seenAt": "2026-10-01T01:09:11.062Z"
+    },
+    {
+      "id": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-github-copilot-in-visual-studio-code-september-2026-releases",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-09-30-accessibility-statements-highlighted-on-repository-overview",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "seenAt": "2026-10-02T01:25:12.450Z"
     }
   ]
 }
