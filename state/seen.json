@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://medium.com/p/39ff8e0271a4",
-      "seenAt": "2026-09-02T23:54:49.947Z"
-    },
-    {
-      "id": "https://astro.build/blog/starlight-042/",
-      "seenAt": "2026-09-02T23:54:49.947Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "seenAt": "2026-09-02T23:54:49.947Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "seenAt": "2026-09-02T23:54:49.947Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-      "seenAt": "2026-09-02T23:54:49.947Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-31-selected-github-copilot-models-deprecated",
-      "seenAt": "2026-09-02T23:54:49.947Z"
-    },
-    {
       "id": "/blog/turbopack-chunking",
       "seenAt": "2026-09-03T23:54:19.880Z"
     },
@@ -579,6 +555,46 @@
     {
       "id": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
       "seenAt": "2026-10-02T01:25:12.450Z"
+    },
+    {
+      "id": "https://svelte.dev/blog/whats-new-in-svelte-october-2026",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/10/eslint-v10.12.0-released/",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://vercel.com/blog/jev-for-python-engineers",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/speed-insights-deprecates-first-input-delay-on-november-first",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "seenAt": "2026-10-03T01:00:22.056Z"
     }
   ]
 }
