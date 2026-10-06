@@ -1,10 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://bun.com/blog/bun-v1.4.2",
-      "seenAt": "2026-09-05T23:38:27.729Z"
-    },
-    {
       "id": "https://astro.build/case-studies/evil-martians/",
       "seenAt": "2026-09-09T07:37:29.383Z"
     },
@@ -535,6 +531,10 @@
     {
       "id": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
       "seenAt": "2026-10-03T01:00:22.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "seenAt": "2026-10-06T02:07:24.813Z"
     }
   ]
 }
