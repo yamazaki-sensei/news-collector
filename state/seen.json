@@ -535,6 +535,22 @@
     {
       "id": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
       "seenAt": "2026-10-06T02:07:24.813Z"
+    },
+    {
+      "id": "/blog/next-16-4",
+      "seenAt": "2026-10-07T01:16:07.792Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "seenAt": "2026-10-07T01:16:07.792Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "seenAt": "2026-10-07T01:16:07.792Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "seenAt": "2026-10-07T01:16:07.792Z"
     }
   ]
 }
