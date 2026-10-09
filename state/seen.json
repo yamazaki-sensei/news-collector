@@ -579,6 +579,30 @@
     {
       "id": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
       "seenAt": "2026-10-08T01:37:23.809Z"
+    },
+    {
+      "id": "/blog/upcoming-nextjs-security-update-october-2026",
+      "seenAt": "2026-10-09T01:50:27.301Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/skip-sending-request-bodies-to-routing-middleware",
+      "seenAt": "2026-10-09T01:50:27.301Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
+      "seenAt": "2026-10-09T01:50:27.301Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+      "seenAt": "2026-10-09T01:50:27.301Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-07-screen-readers-can-navigate-timelines-as-lists",
+      "seenAt": "2026-10-09T01:50:27.301Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "seenAt": "2026-10-09T01:50:27.301Z"
     }
   ]
 }
