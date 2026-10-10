@@ -1,82 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://astro.build/case-studies/evil-martians/",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "https://vercel.com/blog/introducing-flat-rate-cdn",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/flat-rate-cdn-is-now-ga-for-pro-teams",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-04-new-customer-portal-help-github-com",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-06-22-automatic-dependabot-access-to-github-hosted-registries",
-      "seenAt": "2026-09-09T07:37:29.383Z"
-    },
-    {
-      "id": "/blog/release/v26.8.2?1788970157773",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "/blog/release/v24.21.0?1788954920945",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://react.dev/blog/2026/09/09/react-19-3",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/you-can-now-read-and-search-changelogs-from-the-cli",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/deployment-step-now-10-faster",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-08-26-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-      "seenAt": "2026-09-09T23:55:12.014Z"
-    },
-    {
       "id": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
       "seenAt": "2026-09-10T23:50:42.165Z"
     },
@@ -603,6 +527,30 @@
     {
       "id": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
       "seenAt": "2026-10-09T01:50:27.301Z"
+    },
+    {
+      "id": "https://deno.com/blog/cloudflare",
+      "seenAt": "2026-10-10T01:34:32.100Z"
+    },
+    {
+      "id": "https://medium.com/p/3846cae9283a",
+      "seenAt": "2026-10-10T01:34:32.100Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/new-pro-teams-now-default-to-30-day-deployment-retention",
+      "seenAt": "2026-10-10T01:34:32.100Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "seenAt": "2026-10-10T01:34:32.100Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "seenAt": "2026-10-10T01:34:32.100Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls",
+      "seenAt": "2026-10-10T01:34:32.100Z"
     }
   ]
 }
