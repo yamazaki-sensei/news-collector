@@ -515,6 +515,46 @@
     {
       "id": "https://github.blog/changelog/2026-10-09-anonymous-organization-level-registries-for-dependabot",
       "seenAt": "2026-10-13T02:54:40.766Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-12-enterprise-managed-settings-enforcement-updates",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-09-improved-detection-for-withdrawn-dependabot-alerts",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-12-search-and-filter-for-budgets-now-available",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "seenAt": "2026-10-14T00:58:28.836Z"
     }
   ]
 }
