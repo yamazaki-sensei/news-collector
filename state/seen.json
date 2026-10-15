@@ -555,6 +555,30 @@
     {
       "id": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
       "seenAt": "2026-10-14T00:58:28.836Z"
+    },
+    {
+      "id": "/blog/release/v24.22.0?1791991608742",
+      "seenAt": "2026-10-15T00:20:33.749Z"
+    },
+    {
+      "id": "/blog/release/v26.12.0?1791991386239",
+      "seenAt": "2026-10-15T00:20:33.749Z"
+    },
+    {
+      "id": "/blog/vulnerability/october-2026-security-releases?1791946800000",
+      "seenAt": "2026-10-15T00:20:33.749Z"
+    },
+    {
+      "id": "/blog/nextjs-security-update-october-14-2026",
+      "seenAt": "2026-10-15T00:20:33.749Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "seenAt": "2026-10-15T00:20:33.749Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-12-github-actions-workflow-lockfiles-in-public-preview",
+      "seenAt": "2026-10-15T00:20:33.749Z"
     }
   ]
 }
