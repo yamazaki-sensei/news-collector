@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
-      "seenAt": "2026-09-15T00:23:42.325Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/is-agentic-report-categories",
-      "seenAt": "2026-09-16T00:03:06.690Z"
-    },
-    {
-      "id": "https://vercel.com/blog/how-delphi-ships-100-times-a-day-with-its-python-backend-on-vercel",
-      "seenAt": "2026-09-16T00:03:06.690Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "seenAt": "2026-09-16T00:03:06.690Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "seenAt": "2026-09-16T00:03:06.690Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "seenAt": "2026-09-16T00:03:06.690Z"
-    },
-    {
       "id": "/blog/release/v26.9.0?1789582662027",
       "seenAt": "2026-09-17T00:12:38.549Z"
     },
@@ -579,6 +555,58 @@
     {
       "id": "https://github.blog/changelog/2026-10-12-github-actions-workflow-lockfiles-in-public-preview",
       "seenAt": "2026-10-15T00:20:33.749Z"
+    },
+    {
+      "id": "https://astro.build/blog/astro-740/",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://vercel.com/blog/python-on-vercel-is-now-generally-available",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/introducing-token-pass",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+      "seenAt": "2026-10-16T00:09:15.168Z"
     }
   ]
 }
