@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/release/v26.9.0?1789582662027",
-      "seenAt": "2026-09-17T00:12:38.549Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
-      "seenAt": "2026-09-17T00:12:38.549Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "seenAt": "2026-09-17T00:12:38.549Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "seenAt": "2026-09-17T00:12:38.549Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "seenAt": "2026-09-17T00:12:38.549Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "seenAt": "2026-09-17T00:12:38.549Z"
-    },
-    {
       "id": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
       "seenAt": "2026-09-17T23:59:32.869Z"
     },
@@ -607,6 +583,30 @@
     {
       "id": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
       "seenAt": "2026-10-16T00:09:15.168Z"
+    },
+    {
+      "id": "/blog/improving-navigation-experience-in-v0-with-nextjs-16-4",
+      "seenAt": "2026-10-17T00:12:59.093Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/10/eslint-v10.13.0-released/",
+      "seenAt": "2026-10-17T00:12:59.093Z"
+    },
+    {
+      "id": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "seenAt": "2026-10-17T00:12:59.093Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-13-open-source-license-compliance-generally-available",
+      "seenAt": "2026-10-17T00:12:59.093Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+      "seenAt": "2026-10-17T00:12:59.093Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+      "seenAt": "2026-10-17T00:12:59.093Z"
     }
   ]
 }
