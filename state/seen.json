@@ -563,6 +563,38 @@
     {
       "id": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
       "seenAt": "2026-10-20T00:57:48.350Z"
+    },
+    {
+      "id": "https://devblogs.microsoft.com/typescript/?p=5473",
+      "seenAt": "2026-10-21T00:27:09.799Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
+      "seenAt": "2026-10-21T00:27:09.799Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "seenAt": "2026-10-21T00:27:09.799Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "seenAt": "2026-10-21T00:27:09.799Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+      "seenAt": "2026-10-21T00:27:09.799Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-16-github-package-firewall-in-public-preview",
+      "seenAt": "2026-10-21T00:27:09.799Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-19-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "seenAt": "2026-10-21T00:27:09.799Z"
+    },
+    {
+      "id": "https://tkdodo.eu/blog/dead-code-shouldnt-exist",
+      "seenAt": "2026-10-21T00:27:09.799Z"
     }
   ]
 }
