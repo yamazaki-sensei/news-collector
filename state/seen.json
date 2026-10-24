@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/release/v22.23.3?1790187760940",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
-      "id": "/blog/upcoming-nextjs-security-release-september-2026",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/unlimited-vercel-blob-stores-on-every-plan",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-22-local-sandboxing-in-the-github-copilot-app",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-      "seenAt": "2026-09-24T00:18:28.675Z"
-    },
-    {
       "id": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
       "seenAt": "2026-09-25T00:21:02.572Z"
     },
@@ -603,6 +571,50 @@
     {
       "id": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
       "seenAt": "2026-10-23T00:27:40.327Z"
+    },
+    {
+      "id": "https://medium.com/p/67513b4b85e1",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/send-feedback-from-vercel-cli",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-20-automate-more-enterprise-workflows-with-github-apps",
+      "seenAt": "2026-10-24T00:23:18.693Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "seenAt": "2026-10-24T00:23:18.693Z"
     }
   ]
 }
