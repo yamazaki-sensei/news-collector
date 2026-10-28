@@ -583,6 +583,30 @@
     {
       "id": "https://github.blog/changelog/2026-10-23-gpt-6-1-terra-in-github-copilot",
       "seenAt": "2026-10-27T01:17:39.614Z"
+    },
+    {
+      "id": "/blog/upcoming-nextjs-security-release-november-2026",
+      "seenAt": "2026-10-28T01:02:38.108Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
+      "seenAt": "2026-10-28T01:02:38.108Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
+      "seenAt": "2026-10-28T01:02:38.108Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
+      "seenAt": "2026-10-28T01:02:38.108Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "seenAt": "2026-10-28T01:02:38.108Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "seenAt": "2026-10-28T01:02:38.108Z"
     }
   ]
 }
