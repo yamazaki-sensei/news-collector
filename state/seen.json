@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/changelog/search-domains-without-authentication",
-      "seenAt": "2026-09-29T01:36:31.507Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-      "seenAt": "2026-09-29T01:36:31.507Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
-      "seenAt": "2026-09-29T01:36:31.507Z"
-    },
-    {
       "id": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
       "seenAt": "2026-09-30T01:09:32.647Z"
     },
@@ -607,6 +595,78 @@
     {
       "id": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
       "seenAt": "2026-10-28T01:02:38.108Z"
+    },
+    {
+      "id": "/blog/release/v24.22.2?1793212814932",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "/blog/release/v26.13.0?1793206720303",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "/blog/ship-less-javascript-with-ai",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://vercel.com/blog/introducing-vercel-ci",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-26-route-and-orchestrate-models-with-github-copilot-fusion",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-26-github-copilot-app-universe-releases",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-26-github-enterprise-now-includes-access-to-github-copilot",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-26-security-extension-for-the-github-copilot-app",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-26-github-intelligence-puts-your-code-context-and-history-to-work",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-26-build-shared-workflows-for-your-team-with-copilot-automations",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-27-github-copilot-in-vs-code-universe-releases",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-26-generate-and-edit-images-directly-in-copilot",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-26-github-copilot-fusion-now-supports-selection-of-local-models",
+      "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-27-github-agentic-workflows-generally-available",
+      "seenAt": "2026-10-29T01:38:29.162Z"
     }
   ]
 }
