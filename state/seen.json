@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
-      "seenAt": "2026-09-30T01:09:32.647Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
-      "seenAt": "2026-09-30T01:09:32.647Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
-      "seenAt": "2026-09-30T01:09:32.647Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-      "seenAt": "2026-09-30T01:09:32.647Z"
-    },
-    {
       "id": "/blog/september-2026-security-release",
       "seenAt": "2026-10-01T01:09:11.062Z"
     },
@@ -667,6 +651,38 @@
     {
       "id": "https://github.blog/changelog/2026-10-27-github-agentic-workflows-generally-available",
       "seenAt": "2026-10-29T01:38:29.162Z"
+    },
+    {
+      "id": "/blog/release/v27.0.0-alpha.0.0.0?1793303549250",
+      "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/improved-ip-geolocation-data",
+      "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+      "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
+      "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
+      "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+      "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
+      "seenAt": "2026-10-30T01:43:26.995Z"
     }
   ]
 }
