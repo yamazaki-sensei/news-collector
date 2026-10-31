@@ -1,42 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/september-2026-security-release",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://astro.build/blog/whats-new-september-2026/",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-sandbox-now-supports-secure-compute",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vary-cookie-responses-no-longer-cached",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-09-16-x25519-only-tls-ends-for-ghe-com-on-september-15",
-      "seenAt": "2026-10-01T01:09:11.062Z"
-    },
-    {
       "id": "https://svelte.dev/blog/sveltekit-3-is-here",
       "seenAt": "2026-10-02T01:25:12.450Z"
     },
@@ -683,6 +647,30 @@
     {
       "id": "https://github.blog/changelog/2026-11-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
       "seenAt": "2026-10-30T01:43:26.995Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/10/eslint-v10.14.0-released/",
+      "seenAt": "2026-10-31T01:27:14.221Z"
+    },
+    {
+      "id": "https://vercel.com/blog/introducing-geist-serif",
+      "seenAt": "2026-10-31T01:27:14.221Z"
+    },
+    {
+      "id": "https://vercel.com/blog/simplifying-runtime-caching-on-vercel",
+      "seenAt": "2026-10-31T01:27:14.221Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/data-cache-is-moving-to-runtime-cache",
+      "seenAt": "2026-10-31T01:27:14.221Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-daemons-can-now-call-services-with-bindings",
+      "seenAt": "2026-10-31T01:27:14.221Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
+      "seenAt": "2026-10-31T01:27:14.221Z"
     }
   ]
 }
