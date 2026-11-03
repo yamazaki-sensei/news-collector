@@ -591,6 +591,42 @@
     {
       "id": "https://astro.build/blog/whats-new-october-2026/",
       "seenAt": "2026-11-01T00:48:27.520Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/projects-can-now-be-configured-with-vercel-toml",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-with-drives-now-starts-up-to-2-4x-faster",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/blocking-malicious-npm-packages-before-and-during-installation",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+      "seenAt": "2026-11-03T03:22:00.908Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "seenAt": "2026-11-03T03:22:00.908Z"
     }
   ]
 }
