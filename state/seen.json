@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "seenAt": "2026-10-06T02:07:24.813Z"
-    },
-    {
-      "id": "/blog/next-16-4",
-      "seenAt": "2026-10-07T01:16:07.792Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "seenAt": "2026-10-07T01:16:07.792Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "seenAt": "2026-10-07T01:16:07.792Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "seenAt": "2026-10-07T01:16:07.792Z"
-    },
-    {
       "id": "/blog/release/v26.11.1?1791417386441",
       "seenAt": "2026-10-08T01:37:23.809Z"
     },
@@ -699,6 +679,34 @@
     {
       "id": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
       "seenAt": "2026-11-05T02:03:01.260Z"
+    },
+    {
+      "id": "/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha?1793880000000",
+      "seenAt": "2026-11-06T02:05:14.198Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-schedules-is-now-in-public-beta",
+      "seenAt": "2026-11-06T02:05:14.198Z"
+    },
+    {
+      "id": "https://vercel.com/blog/introducing-vercel-schedules",
+      "seenAt": "2026-11-06T02:05:14.198Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+      "seenAt": "2026-11-06T02:05:14.198Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "seenAt": "2026-11-06T02:05:14.198Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+      "seenAt": "2026-11-06T02:05:14.198Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-12-05-new-pull-request-overview-page-in-public-preview",
+      "seenAt": "2026-11-06T02:05:14.198Z"
     }
   ]
 }
