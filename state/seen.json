@@ -1,34 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/release/v26.11.1?1791417386441",
-      "seenAt": "2026-10-08T01:37:23.809Z"
-    },
-    {
-      "id": "/blog/release/v26.11.0?1791384309757",
-      "seenAt": "2026-10-08T01:37:23.809Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/timestamp-attributes-are-now-supported-in-vercel-flags",
-      "seenAt": "2026-10-08T01:37:23.809Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-      "seenAt": "2026-10-08T01:37:23.809Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "seenAt": "2026-10-08T01:37:23.809Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "seenAt": "2026-10-08T01:37:23.809Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-      "seenAt": "2026-10-08T01:37:23.809Z"
-    },
-    {
       "id": "/blog/upcoming-nextjs-security-update-october-2026",
       "seenAt": "2026-10-09T01:50:27.301Z"
     },
@@ -707,6 +679,42 @@
     {
       "id": "https://github.blog/changelog/2026-12-05-new-pull-request-overview-page-in-public-preview",
       "seenAt": "2026-11-06T02:05:14.198Z"
+    },
+    {
+      "id": "https://medium.com/p/be82fd4a8c87",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/11/eslint-shell-plugin-announcement/",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-token-scanning-expands-to-more-public-sources",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+      "seenAt": "2026-11-07T01:42:52.320Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "seenAt": "2026-11-07T01:42:52.320Z"
     }
   ]
 }
