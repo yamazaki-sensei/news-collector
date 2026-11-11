@@ -683,6 +683,30 @@
     {
       "id": "https://github.blog/changelog/2026-11-05-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
       "seenAt": "2026-11-10T03:59:17.960Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
+      "seenAt": "2026-11-11T01:44:55.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-06-github-app-support-for-enterprise-copilot-seat-management",
+      "seenAt": "2026-11-11T01:44:55.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+      "seenAt": "2026-11-11T01:44:55.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "seenAt": "2026-11-11T01:44:55.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-05-dependabot-alerts-will-pause-on-inactive-repositories",
+      "seenAt": "2026-11-11T01:44:55.383Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+      "seenAt": "2026-11-11T01:44:55.383Z"
     }
   ]
 }
