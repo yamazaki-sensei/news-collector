@@ -1,54 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://github.blog/changelog/2026-10-09-push-attribution-for-commits-in-limited-public-preview",
-      "seenAt": "2026-10-13T02:54:40.766Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-09-anonymous-organization-level-registries-for-dependabot",
-      "seenAt": "2026-10-13T02:54:40.766Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-12-enterprise-managed-settings-enforcement-updates",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-09-improved-detection-for-withdrawn-dependabot-alerts",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-12-search-and-filter-for-budgets-now-available",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
-      "seenAt": "2026-10-14T00:58:28.836Z"
-    },
-    {
       "id": "/blog/release/v24.22.0?1791991608742",
       "seenAt": "2026-10-15T00:20:33.749Z"
     },
@@ -727,6 +679,22 @@
     {
       "id": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
       "seenAt": "2026-11-12T02:45:12.875Z"
+    },
+    {
+      "id": "/blog/release/v27.0.0-alpha.0.1.0?1794490570130",
+      "seenAt": "2026-11-13T02:28:35.909Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+      "seenAt": "2026-11-13T02:28:35.909Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+      "seenAt": "2026-11-13T02:28:35.909Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
+      "seenAt": "2026-11-13T02:28:35.909Z"
     }
   ]
 }
