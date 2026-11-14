@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/release/v24.22.0?1791991608742",
-      "seenAt": "2026-10-15T00:20:33.749Z"
-    },
-    {
-      "id": "/blog/release/v26.12.0?1791991386239",
-      "seenAt": "2026-10-15T00:20:33.749Z"
-    },
-    {
-      "id": "/blog/vulnerability/october-2026-security-releases?1791946800000",
-      "seenAt": "2026-10-15T00:20:33.749Z"
-    },
-    {
-      "id": "/blog/nextjs-security-update-october-14-2026",
-      "seenAt": "2026-10-15T00:20:33.749Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-      "seenAt": "2026-10-15T00:20:33.749Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-12-github-actions-workflow-lockfiles-in-public-preview",
-      "seenAt": "2026-10-15T00:20:33.749Z"
-    },
-    {
       "id": "https://astro.build/blog/astro-740/",
       "seenAt": "2026-10-16T00:09:15.168Z"
     },
@@ -695,6 +671,66 @@
     {
       "id": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
       "seenAt": "2026-11-13T02:28:35.909Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/11/retiring-contributor-pool/",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://eslint.org/blog/2026/11/eslint-v10.15.0-released/",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/kimi-k3-1-pro-is-now-available-in-token-pass",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/blog/workflow-sdk-5",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-now-supports-managed-npm-credentials",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/python-3-15-now-available-as-a-vercel-managed-image",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-12-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "seenAt": "2026-11-14T02:03:31.056Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "seenAt": "2026-11-14T02:03:31.056Z"
     }
   ]
 }
