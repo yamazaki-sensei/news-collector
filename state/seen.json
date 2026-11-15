@@ -1,58 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://astro.build/blog/astro-740/",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://vercel.com/blog/backends-on-vercel-python-containers-and-daemons",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://vercel.com/blog/python-on-vercel-is-now-generally-available",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/introducing-token-pass",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-daemons-is-now-in-public-beta",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-drives-is-now-generally-available",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/bring-your-own-cloud-on-aws-is-now-generally-available",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/python-on-vercel-is-now-generally-available",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
-      "seenAt": "2026-10-16T00:09:15.168Z"
-    },
-    {
       "id": "/blog/improving-navigation-experience-in-v0-with-nextjs-16-4",
       "seenAt": "2026-10-17T00:12:59.093Z"
     },
