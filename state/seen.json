@@ -691,6 +691,78 @@
     {
       "id": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
       "seenAt": "2026-11-17T04:22:00.284Z"
+    },
+    {
+      "id": "/blog/release/v27.0.0-alpha.0.1.1?1794904867602",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "/blog/how-were-using-ai-to-make-nextjs-more-secure",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/standard-build-billing-new-teams",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-blob-now-supports-ttls-for-automatic-deletion",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/pull-request-only-preset-now-available-for-preview-builds",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://vercel.com/blog/eve-is-now-generally-available",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-python-sdk-1-0-is-now-available",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-16-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-16-github-copilot-app-microsoft-ignite-releases",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-16-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-13-github-copilot-in-jetbrains-ignite-releases",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-16-monitor-github-copilot-activity-through-microsoft-agent-365",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-16-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-16-track-copilot-code-review-outcomes-in-repository-insights",
+      "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-16-github-copilot-evals-is-now-in-public-preview",
+      "seenAt": "2026-11-18T03:25:43.561Z"
     }
   ]
 }
