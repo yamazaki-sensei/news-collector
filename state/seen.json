@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
-      "seenAt": "2026-10-20T00:57:48.350Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
-      "seenAt": "2026-10-20T00:57:48.350Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
-      "seenAt": "2026-10-20T00:57:48.350Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-15-some-git-over-https-may-temporarily-require-authentication",
-      "seenAt": "2026-10-20T00:57:48.350Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-      "seenAt": "2026-10-20T00:57:48.350Z"
-    },
-    {
       "id": "https://devblogs.microsoft.com/typescript/?p=5473",
       "seenAt": "2026-10-21T00:27:09.799Z"
     },
@@ -763,6 +743,46 @@
     {
       "id": "https://github.blog/changelog/2026-11-16-github-copilot-evals-is-now-in-public-preview",
       "seenAt": "2026-11-18T03:25:43.561Z"
+    },
+    {
+      "id": "https://vercel.com/blog/introducing-vercel-board",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-board-is-now-available",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://vercel.com/blog/vercel-x",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-drives-now-reads-files-up-to-6x-faster",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/speed-insights-now-measures-soft-navigations",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-18-connect-supabase-clickup-buildkite-and-more-to-copilot",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+      "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+      "seenAt": "2026-11-19T02:59:22.493Z"
     }
   ]
 }
