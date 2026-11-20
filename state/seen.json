@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://devblogs.microsoft.com/typescript/?p=5473",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/websocket-support-is-now-generally-available",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-16-github-package-firewall-in-public-preview",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-19-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
-      "id": "https://tkdodo.eu/blog/dead-code-shouldnt-exist",
-      "seenAt": "2026-10-21T00:27:09.799Z"
-    },
-    {
       "id": "/blog/vulnerability/october-2026-security-releases?1792620000000",
       "seenAt": "2026-10-22T00:29:42.282Z"
     },
@@ -783,6 +751,30 @@
     {
       "id": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
       "seenAt": "2026-11-19T02:59:22.493Z"
+    },
+    {
+      "id": "https://bun.com/blog/bun-v1.4.5",
+      "seenAt": "2026-11-20T02:52:53.703Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-billing-cli-is-now-available",
+      "seenAt": "2026-11-20T02:52:53.703Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "seenAt": "2026-11-20T02:52:53.703Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "seenAt": "2026-11-20T02:52:53.703Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "seenAt": "2026-11-20T02:52:53.703Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-17-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+      "seenAt": "2026-11-20T02:52:53.703Z"
     }
   ]
 }
