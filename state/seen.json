@@ -1,34 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/vulnerability/october-2026-security-releases?1792620000000",
-      "seenAt": "2026-10-22T00:29:42.282Z"
-    },
-    {
-      "id": "/blog/release/v26.12.1?1792579160400",
-      "seenAt": "2026-10-22T00:29:42.282Z"
-    },
-    {
-      "id": "/blog/release/v24.22.1?1792579154786",
-      "seenAt": "2026-10-22T00:29:42.282Z"
-    },
-    {
-      "id": "/blog/release/v22.23.4?1792579152420",
-      "seenAt": "2026-10-22T00:29:42.282Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/routing-middleware-now-supports-python",
-      "seenAt": "2026-10-22T00:29:42.282Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
-      "seenAt": "2026-10-22T00:29:42.282Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-      "seenAt": "2026-10-22T00:29:42.282Z"
-    },
-    {
       "id": "https://bun.com/blog/bun-v1.4.4",
       "seenAt": "2026-10-23T00:27:40.327Z"
     },
@@ -775,6 +747,38 @@
     {
       "id": "https://github.blog/changelog/2026-11-17-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
       "seenAt": "2026-11-20T02:52:53.703Z"
+    },
+    {
+      "id": "https://medium.com/p/7d69d0d07a69",
+      "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-functions-now-support-request-bodies-up-to-20mib",
+      "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
+      "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/priority-projects-now-in-public-beta",
+      "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+      "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "seenAt": "2026-11-21T03:01:29.543Z"
     }
   ]
 }
