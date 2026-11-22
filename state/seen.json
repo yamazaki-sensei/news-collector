@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://bun.com/blog/bun-v1.4.4",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
-      "id": "https://vercel.com/blog/death-to-long-lived-static-credentials",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "seenAt": "2026-10-23T00:27:40.327Z"
-    },
-    {
       "id": "https://medium.com/p/67513b4b85e1",
       "seenAt": "2026-10-24T00:23:18.693Z"
     },
