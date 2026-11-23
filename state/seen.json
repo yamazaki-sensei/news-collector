@@ -1,50 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://medium.com/p/67513b4b85e1",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/send-feedback-from-vercel-cli",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-20-automate-more-enterprise-workflows-with-github-apps",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "seenAt": "2026-10-24T00:23:18.693Z"
-    },
-    {
       "id": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
       "seenAt": "2026-10-25T00:05:58.794Z"
     },
