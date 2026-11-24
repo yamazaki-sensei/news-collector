@@ -1,10 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-      "seenAt": "2026-10-25T00:05:58.794Z"
-    },
-    {
       "id": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
       "seenAt": "2026-10-27T01:17:39.614Z"
     },
@@ -703,6 +699,38 @@
     {
       "id": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
       "seenAt": "2026-11-21T03:01:29.543Z"
+    },
+    {
+      "id": "https://vercel.com/blog/kazunari-hanao-joins-vercel-as-country-manager-japan",
+      "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://vercel.com/blog/ja-kazunari-hanao-joins-vercel-as-country-manager-japan",
+      "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+      "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+      "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+      "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+      "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+      "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+      "seenAt": "2026-11-24T05:46:31.243Z"
     }
   ]
 }
