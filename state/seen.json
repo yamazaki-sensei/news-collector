@@ -731,6 +731,30 @@
     {
       "id": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
       "seenAt": "2026-11-24T05:46:31.243Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
+      "seenAt": "2026-11-25T04:48:58.784Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
+      "seenAt": "2026-11-25T04:48:58.784Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/aws-privatelink-endpoints-are-now-available-on-secure-compute",
+      "seenAt": "2026-11-25T04:48:58.784Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/flags-sdk-now-works-on-vercel-without-flags-secret",
+      "seenAt": "2026-11-25T04:48:58.784Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
+      "seenAt": "2026-11-25T04:48:58.784Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "seenAt": "2026-11-25T04:48:58.784Z"
     }
   ]
 }
