@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "id": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
-      "seenAt": "2026-10-27T01:17:39.614Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/create-custom-monitors-in-vercel-observability",
-      "seenAt": "2026-10-27T01:17:39.614Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
-      "seenAt": "2026-10-27T01:17:39.614Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/customizable-widgets-for-project-cards",
-      "seenAt": "2026-10-27T01:17:39.614Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/faster-pnpm-installs",
-      "seenAt": "2026-10-27T01:17:39.614Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-23-gpt-6-1-terra-in-github-copilot",
-      "seenAt": "2026-10-27T01:17:39.614Z"
-    },
-    {
       "id": "/blog/upcoming-nextjs-security-release-november-2026",
       "seenAt": "2026-10-28T01:02:38.108Z"
     },
@@ -755,6 +731,22 @@
     {
       "id": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
       "seenAt": "2026-11-25T04:48:58.784Z"
+    },
+    {
+      "id": "https://svelte.dev/blog/ten-years-of-svelte",
+      "seenAt": "2026-11-26T04:01:20.604Z"
+    },
+    {
+      "id": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
+      "seenAt": "2026-11-26T04:01:20.604Z"
+    },
+    {
+      "id": "https://vercel.com/changelog/workflows-speculative-execution",
+      "seenAt": "2026-11-26T04:01:20.604Z"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "seenAt": "2026-11-26T04:01:20.604Z"
     }
   ]
 }
