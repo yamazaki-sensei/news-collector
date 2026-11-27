@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "id": "/blog/upcoming-nextjs-security-release-november-2026",
-      "seenAt": "2026-10-28T01:02:38.108Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/vercel-plugin-now-available-in-opencode",
-      "seenAt": "2026-10-28T01:02:38.108Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/deploy-a-container-from-a-plain-dockerfile",
-      "seenAt": "2026-10-28T01:02:38.108Z"
-    },
-    {
-      "id": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability",
-      "seenAt": "2026-10-28T01:02:38.108Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-      "seenAt": "2026-10-28T01:02:38.108Z"
-    },
-    {
-      "id": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-      "seenAt": "2026-10-28T01:02:38.108Z"
-    },
-    {
       "id": "/blog/release/v24.22.2?1793212814932",
       "seenAt": "2026-10-29T01:38:29.162Z"
     },
@@ -747,6 +723,14 @@
     {
       "id": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
       "seenAt": "2026-11-26T04:01:20.604Z"
+    },
+    {
+      "id": "/blog/release/v27.0.0-alpha.0.2.0?1795689016201",
+      "seenAt": "2026-11-27T03:58:54.031Z"
+    },
+    {
+      "id": "https://vite.dev/blog/announcing-vite8-4",
+      "seenAt": "2026-11-27T03:58:54.031Z"
     }
   ]
 }
